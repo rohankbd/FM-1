@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rohankbd.github.io/FM-1/](https://rohankbd.github.io/FM-1/)
 
 ## My process
 
@@ -46,15 +46,14 @@ Users should be able to:
 
 ### What I learned
 
-
+I learnt how to place different elements effectively using CSS custom properties and how it affects the behaviour of other elements.
+The display property is still a tough nut to crack but I tried to implement the best of my knowledge of display property.
 
 ### Continued development
 
-
+I would like to further better this project in the future as I learn new styling techniques.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@rohankbd](https://www.frontendmentor.io/profile/rohankbd)
