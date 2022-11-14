@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://rohankbd.github.io/FM-1/](https://rohankbd.github.io/FM-1/)
+- Live Site URL: [https://rohankbd.github.io/Product-card/](https://rohankbd.github.io/Product-card/)
 
 ## My process
 
